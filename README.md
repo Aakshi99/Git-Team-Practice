@@ -1,4 +1,7 @@
 
  #Git Team Practice
-Conflict test by Aakshi(from feature branch
+ feature/conflict
+Conflict test by Aakshi(from feature branch and from main branch)
+
+
 
